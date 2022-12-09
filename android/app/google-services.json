@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "648461383911",
+    "project_id": "yoga-78b49",
+    "storage_bucket": "yoga-78b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648461383911:android:3f6206789dc3a2b0e7ca42",
+        "android_client_info": {
+          "package_name": "com.example.ziedyoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648461383911-rrstpnatravbjpf7f20i3p5852rojurf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ziedyoga",
+            "certificate_hash": "3c7f91c6b6838defa8368b75636ad13d1acafc94"
+          }
+        },
+        {
+          "client_id": "648461383911-tjd98sasb5iftredehgbs50oa26uaqeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWO0TDXpoYz0s_myX_8PwIrR5mQmu5njA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648461383911-tjd98sasb5iftredehgbs50oa26uaqeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
